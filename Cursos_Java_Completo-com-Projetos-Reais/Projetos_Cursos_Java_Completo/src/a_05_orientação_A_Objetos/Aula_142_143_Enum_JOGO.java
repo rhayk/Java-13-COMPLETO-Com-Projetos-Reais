@@ -1,7 +1,7 @@
 package a_05_orientação_A_Objetos;
 
 public class Aula_142_143_Enum_JOGO {
-
+ 
 	public static void main(String[] args) {
 		
 		
