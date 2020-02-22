@@ -8,9 +8,9 @@ public class Aulaaa_123_List_Main {
 		
 		ArrayList<Aulaaa_123_List_classe> lista  = new ArrayList<>();
 
-		Aulaaa_123_List_classe u1 = new Aulaaa_123_List_classe ("Ana");
+		//Aulaaa_123_List_classe u1 = new Aulaaa_123_List_classe ("Ana");
 		
-		lista.add(u1);
+		//lista.add(u1);
 		lista.add(new Aulaaa_123_List_classe("Carlos"));
 		lista.add(new Aulaaa_123_List_classe("Pedro"));
 		lista.add(new Aulaaa_123_List_classe("Daniel"));
